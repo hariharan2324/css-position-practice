@@ -1,1 +1,9 @@
-# css-position-practice
+# Finland Flag using CSS
+
+This project recreates the Finland flag using HTML and CSS.
+
+## Concepts Practiced
+- CSS Position
+- Relative Positioning
+- Absolute Positioning
+- CSS Selectors
